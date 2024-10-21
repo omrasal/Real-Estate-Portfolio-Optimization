@@ -1,7 +1,7 @@
 # Real Estate Portfolio Optimization
 
 ## Project Overview
-This project aims to optimize a real estate portfolio by selecting properties to deleverage while maximizing 10-year returns and equity. It was developed as a final project for the Optimization and Process Analytics course which is a part of the Business Intelligence and Analytics MS prorgram.
+This project aims to optimize a real estate portfolio by selecting properties to deleverage while maximizing 10-year returns and equity. It was developed as a final project for the Optimization and Process Analytics course which is a part of the Business Intelligence and Analytics MS program.
 
 ## Business Understanding
 The goal of this project is to:
